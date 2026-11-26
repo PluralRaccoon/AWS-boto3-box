@@ -8,6 +8,7 @@ The more libraries are needed the bigger the config file gonna get.
 
 Current technologies used:
 - boto3
+- botocore[crf] -> added because of the exercise required it
 
 ---
 Codded with love from Costa Rica
